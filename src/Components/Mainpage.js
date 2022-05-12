@@ -86,10 +86,10 @@ const Header = ()=>{
           </Typography>
       <Link color="inherit" style={styled.link} to="/">Home</Link>
       <Link color="inherit" style={styled.link} to="/About">About</Link>
-      {/* <Link color="inherit" style={styled.link} to="/Services">Services</Link>
+      <Link color="inherit" style={styled.link} to="/Services">Services</Link>
       <Link color="inherit" style={styled.link} to="/Calculator">Calculator</Link>
       <Link color="inherit" style={styled.link} to="/Todos">Todos</Link>
-      <Link color="inherit" style={styled.link} to="/Quotes">Quotes</Link> */}
+      <Link color="inherit" style={styled.link} to="/Quotes">Quotes</Link>
     
       </Toolbar>
       </AppBar>
